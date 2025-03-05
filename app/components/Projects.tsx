@@ -19,7 +19,7 @@ const projects = [
   {
     title: "My personal portfolio Website",
     description:
-      "Developed a trading agent using Reinforcement Learning to adapt to market conditions dynamically. Outperformed the Buy-and-Hold strategy by 15% in cumulative returns on backtesting with S&P 500 data.",
+      "Personal Portfolio Website – A fully responsive web portfolio built using HTML, CSS, and JavaScript to showcase my projects, skills, and achievements in an interactive and visually appealing way. Designed with a modern UI/UX, featuring smooth animations and a clean layout for an enhanced user experience. Implements JavaScript for dynamic content and responsiveness, making it accessible across different devices and screen sizes.",
     image:
       "https://media-hosting.imagekit.io//9c8c5b047f6440b6/Screenshot%202025-03-01%20092044.png?Expires=1835409090&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=hgUWnl8caIi~ekSmPVnsGKtrHrSwSO9q6q6SQ-MTQN4Vw3rrzS~vLQsTdRW34ELs90mwzuuIQpALYaXguPzoK0XAS4giF3egcluzaMTOsGLsaL65HjaZosrt4pFYrK83b5B4qqaw4QEO60jGP4Iv50a4mQoeG1lABGNx97IPSX~NG-MtaPRTszcyLA2dcdkyQeqEdX10wB6rMc3vilsYAHgwUIrWF1gFWWRz~3OjNkkgdcOrRmpCPPeFMKombvvNd-5CzmEv7IFK3BTXKnYCPDYw7dklaQAIhKAmjZ7wp1pMg6wQxateXViwKAE2vM1Kr7oMwJ-L2e0XJZKvdDXCXA__",
     link: "https://karanyede.github.io/First-Repository/",
