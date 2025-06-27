@@ -60,7 +60,7 @@ const Hero = () => {
             <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-blue-400 rounded-2xl blur opacity-30 animate-pulse" />
             <div className="absolute inset-0">
               <Image
-                src="https://media-hosting.imagekit.io//1410be8b57c249d0/Polish_20240216_194747340.png?Expires=1835812797&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=dbefhVpvpTbRNCvbWPd425i6D3HFUFiiz4pBezWSMmgghduUFRdSKUox~P4Khy~8c5R9HJZ7jKdu3YbCHBnFqvNsdHbY3T2iyQU0kJr73xNmJile3Zq7lssDOXVcWX43Y8sEpWXW3tyUKPZLPSTgWGXVcMFMc4eOfBqC816HuVaW-DJvyi1tZgfE-X-r1h6CWwoCW8xSDj9VXmWynohoZpybZuriryqmGMwiJkMN~MRd09yPsIxGKVMTnsKY5mMDjDUT~yWP2KXmpcBOhr4ClTWe2mskdiGUAHPGk6dGsEPha3tvgm4HoT4nX5LESqPYZiMUPTYc4VonmdaqrDjNEQ__"
+                src="/KARAN.png"
                 alt="Karan Yede Avtar"
                 loading="lazy"
                 layout="fill"
