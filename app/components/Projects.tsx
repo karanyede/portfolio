@@ -12,7 +12,8 @@ const projects = [
     description:
       "I've developed a Tic Tac Toe game using HTML and CSS, featuring a clean and intuitive user interface that provides an engaging gaming experience across various devices. This project showcases a simple yet addictive gameplay, with a responsive design that adapts seamlessly to different screen sizes, ensuring a smooth and enjoyable interaction for players.",
     image:
-      "https://media-hosting.imagekit.io//d0425233ed2344b3/Screenshot%202025-03-01%20005826.png?Expires=1835379052&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=a2Wl7D9ecEzWBCC2syFAyJmOfZyzqLryIfBUYiyygE3IC~I-VJyZoLbiWFzdA~VY7c75eijmfyQce0zqGC1fxam7xgnLZ2W8q-tusjLFDlGXD99FTy9xAsyM9ayiZpef0NgI84W8-0YyizmXUKL8rNMSvDT9q3atyyy5BFpg4c~Rc8nDImG8~sZBAEusXiHjLi8aafsSz32SQsaeRSKttlX9NPTQFXIIVgRYrim8I8xGmh7mmxYiuTmZyRltm12ujYBy~LNrd7EdJZ5mtSUI~aUSDrTbT4zYsXseB9o3J2K2rE7S8O~qtU6YjzdvZj4SEA5HwlGptHB2LoE9dIRcrw__",
+      "/TicTacToe.png",
+    loading="lazy"
     link: "https://karanyede.github.io/Tic-Tac-Toe/",
     technologies: ["HTML", "CSS", "JavaScript"],
   },
@@ -21,7 +22,8 @@ const projects = [
     description:
       "Personal Portfolio Website – A fully responsive web portfolio built using HTML, CSS, and JavaScript to showcase my projects, skills, and achievements in an interactive and visually appealing way. Designed with a modern UI/UX, featuring smooth animations and a clean layout for an enhanced user experience. Implements JavaScript for dynamic content and responsiveness, making it accessible across different devices and screen sizes.",
     image:
-      "https://media-hosting.imagekit.io//9c8c5b047f6440b6/Screenshot%202025-03-01%20092044.png?Expires=1835409090&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=hgUWnl8caIi~ekSmPVnsGKtrHrSwSO9q6q6SQ-MTQN4Vw3rrzS~vLQsTdRW34ELs90mwzuuIQpALYaXguPzoK0XAS4giF3egcluzaMTOsGLsaL65HjaZosrt4pFYrK83b5B4qqaw4QEO60jGP4Iv50a4mQoeG1lABGNx97IPSX~NG-MtaPRTszcyLA2dcdkyQeqEdX10wB6rMc3vilsYAHgwUIrWF1gFWWRz~3OjNkkgdcOrRmpCPPeFMKombvvNd-5CzmEv7IFK3BTXKnYCPDYw7dklaQAIhKAmjZ7wp1pMg6wQxateXViwKAE2vM1Kr7oMwJ-L2e0XJZKvdDXCXA__",
+      "/wEBSITE.png",
+    loading="lazy",
     link: "https://karanyede.github.io/First-Repository/",
     technologies: ["HTML", "CSS", "JavaScript"],
   },
@@ -30,8 +32,9 @@ const projects = [
     description:
       "I've recently updated my personal portfolio website with a fresh new theme, elevating its visual appeal and user experience. The revamped design boasts a bold color scheme, enhanced typography, and intuitive navigation, making it easier for visitors to explore my projects and accomplishments. With these enhancements, my portfolio now better reflects my personality and style, while showcasing my skills and expertise in front-end development.",
     image:
-      "https://media-hosting.imagekit.io//6b0979c8307a4c12/Screenshot%202025-03-01%20012646.png?Expires=1835380631&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=bFe8hj6eNETt8USZL~fm7t0aiMKxLvcyi-~aXCJpI9WuuLI7COUeoNixVLJxeJMJsB~dSSKSlaD8UpUso038DxB6~DeBSdOLVDREsbzJ~SiTyrayI-ew9ivrLLhsupeNq9diTa51SGLeKAfqQWdnTqsf3-OTqBtMgecYxply1~Ou7xEMUxtejUGWJ-HFU40UtO9cRNlYEidOMIb~c13MNN~zWmt041LJHsN0KL7gRtt3RY941zlpZsBbsuXuZsgrGOK-nw~oE00Wp02IgKLHButl3Bvu5bPl8vjqhJX8uYKgEX6iX~lum97mamCCNthu~k1WqtX3ps1-0VYkqtl00g__",
-    link: "https://karanyede.github.io/profile/",
+      "/update.png",
+    loading="lazy",
+    link: "https://karanyede.github.io/Profile/",
     technologies: ["HTML", "CSS", "JavaScript"],
   },
 ]
