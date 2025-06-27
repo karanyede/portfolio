@@ -11,9 +11,8 @@ const projects = [
     title: "Tic Tac Toe - Game ",
     description:
       "I've developed a Tic Tac Toe game using HTML and CSS, featuring a clean and intuitive user interface that provides an engaging gaming experience across various devices. This project showcases a simple yet addictive gameplay, with a responsive design that adapts seamlessly to different screen sizes, ensuring a smooth and enjoyable interaction for players.",
-    image:
-      "/TicTacToe.png",
-    loading="lazy"
+    image:"/TicTacToe.png",
+    loading="lazy",
     link: "https://karanyede.github.io/Tic-Tac-Toe/",
     technologies: ["HTML", "CSS", "JavaScript"],
   },
@@ -21,8 +20,7 @@ const projects = [
     title: "My personal portfolio Website",
     description:
       "Personal Portfolio Website – A fully responsive web portfolio built using HTML, CSS, and JavaScript to showcase my projects, skills, and achievements in an interactive and visually appealing way. Designed with a modern UI/UX, featuring smooth animations and a clean layout for an enhanced user experience. Implements JavaScript for dynamic content and responsiveness, making it accessible across different devices and screen sizes.",
-    image:
-      "/wEBSITE.png",
+    image:"/wEBSITE.png",
     loading="lazy",
     link: "https://karanyede.github.io/First-Repository/",
     technologies: ["HTML", "CSS", "JavaScript"],
@@ -31,8 +29,7 @@ const projects = [
     title: "Updated Portfolio",
     description:
       "I've recently updated my personal portfolio website with a fresh new theme, elevating its visual appeal and user experience. The revamped design boasts a bold color scheme, enhanced typography, and intuitive navigation, making it easier for visitors to explore my projects and accomplishments. With these enhancements, my portfolio now better reflects my personality and style, while showcasing my skills and expertise in front-end development.",
-    image:
-      "/update.png",
+    image:"/update.png",
     loading="lazy",
     link: "https://karanyede.github.io/Profile/",
     technologies: ["HTML", "CSS", "JavaScript"],
