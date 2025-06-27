@@ -62,6 +62,7 @@ const Hero = () => {
               <Image
                 src="https://media-hosting.imagekit.io//1410be8b57c249d0/Polish_20240216_194747340.png?Expires=1835812797&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=dbefhVpvpTbRNCvbWPd425i6D3HFUFiiz4pBezWSMmgghduUFRdSKUox~P4Khy~8c5R9HJZ7jKdu3YbCHBnFqvNsdHbY3T2iyQU0kJr73xNmJile3Zq7lssDOXVcWX43Y8sEpWXW3tyUKPZLPSTgWGXVcMFMc4eOfBqC816HuVaW-DJvyi1tZgfE-X-r1h6CWwoCW8xSDj9VXmWynohoZpybZuriryqmGMwiJkMN~MRd09yPsIxGKVMTnsKY5mMDjDUT~yWP2KXmpcBOhr4ClTWe2mskdiGUAHPGk6dGsEPha3tvgm4HoT4nX5LESqPYZiMUPTYc4VonmdaqrDjNEQ__"
                 alt="Karan Yede Avtar"
+                loading="lazy"
                 layout="fill"
                 objectFit="cover"
                 className="rounded-2xl shadow-2xl transform hover:scale-[1.02] transition-transform duration-300"
