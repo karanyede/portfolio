@@ -60,7 +60,7 @@ const Hero = () => {
             <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-blue-400 rounded-2xl blur opacity-30 animate-pulse" />
             <div className="absolute inset-0">
               <Image
-                src="/KARAN.png"
+                src="/profile.png"
                 alt="Karan Yede Avtar"
                 loading="lazy"
                 layout="fill"
